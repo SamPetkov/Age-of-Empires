@@ -1,0 +1,8 @@
+IMAGE
+pepe.png
+
+REPRODUCTION
+7
+
+COLONIES
+20
